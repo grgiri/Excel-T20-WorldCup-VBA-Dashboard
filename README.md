@@ -32,6 +32,7 @@ This Excel dashboard visually represents 🇮🇳 India's journey to victory in 
 - ⚠️ Enable Macros for full functionality
 
 ## 📸 Screenshots
+Dynamic display of match info
 ![t20_india_2024_macros-Excel_gif_img](https://github.com/user-attachments/assets/8ed24f7e-b276-41d7-963c-81c6a68aa5f0)
 
 
