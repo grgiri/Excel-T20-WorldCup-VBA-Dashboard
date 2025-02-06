@@ -19,6 +19,8 @@ This Excel dashboard visually represents 🇮🇳 India's journey to victory in 
 - **⚡ VBA Scripting:**
   - Enables match selection highlighting
   - Improves interactivity and user experience
+    ![t20_excel_vba_img](https://github.com/user-attachments/assets/fd5a1435-b0f2-4ca2-a538-708a5c3acb6c)
+
 
 ## 📌 How to Use
 1. 📂 Open the Excel file.
